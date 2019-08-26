@@ -1,7 +1,7 @@
 {
-    "name": "maintenance-tracker-api-v2",
+    "name": "sms-management-api",
     "version": "1.0.0",
-    "description": "The redo of maintenance tracker api with NodeJS/Express ",
+    "description": "An SMS management API built with NodeJS and Express. Allows consumers to send, receive, and monitor an sms.",
     "main": "index.js",
     "scripts": {
       "clean": "rm -rf dist && mkdir dist",
@@ -21,14 +21,10 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/gitaumoses4/maintenance-tracker-api-v2.git"
+      "url": "git+https://github.com/SrMoffat/sms-management-api.git"
     },
-    "author": "Moses Gitau",
+    "author": "4fr0c0d3",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/gitaumoses4/maintenance-tracker-api-v2/issues"
-    },
-    "homepage": "https://github.com/gitaumoses4/maintenance-tracker-api-v2#readme",
     "dependencies": {
       "babel-cli": "^6.26.0",
       "babel-core": "^6.26.3",
