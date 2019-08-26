@@ -32,6 +32,16 @@ phone number of person
 `For this, you will need to have` [postgress](https://www.postgresql.org/download/) `installed`
 3. **Update .env file**
 `You need to add the credentials in your .env file as demonstrated by .env_example`
+4. **Run the API**
+`yarn start:dev`
+5. **Try Out Routes**
+`visit http://localhost:5555/api/v1/` and if you see this know the app is running as expected
+```
+{
+    "success" : true,
+    "message" : "The API is working"
+}
+```
 
 ## Technologies Used
 1. [NodeJS](https://nodejs.org/en/docs/)
