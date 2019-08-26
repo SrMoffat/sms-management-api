@@ -34,10 +34,10 @@ phone number of person
 `You need to add the credentials in your .env file as demonstrated by .env_example`
 
 ## Technologies Used
-1. [NodeJS]()
-2. [Express]()
-3. [Sequelize]()
-4. [Swagger]()
+1. [NodeJS](https://nodejs.org/en/docs/)
+2. [Express](https://expressjs.com/)
+3. [Sequelize](https://sequelize.org/)
+4. [Swagger](https://swagger.io/docs/)
 
 
 ## Features
