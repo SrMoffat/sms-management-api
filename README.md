@@ -25,6 +25,21 @@ name of person
 phone number of person
 ```
 
+## Project Setup
+1. **Clone the repository**
+`git clone https://github.com/SrMoffat/sms-management-api.git`
+2. **Create a database**
+`For this, you will need to have` [postgress](https://www.postgresql.org/download/) `installed`
+3. **Update .env file**
+`You need to add the credentials in your .env file as demonstrated by .env_example`
+
+## Technologies Used
+1. [NodeJS]()
+2. [Express]()
+3. [Sequelize]()
+4. [Swagger]()
+
+
 ## Features
 - [x] Link all Sms sent by a Contact to the User
 - [x] Deleting a contact removes the messages they sent and references to messages they received.
