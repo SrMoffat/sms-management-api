@@ -45,7 +45,7 @@
       "http-errors": "^1.7.2",
       "jsonwebtoken": "^8.5.1",
       "lodash": "^4.17.11",
-      "moment": "^2.24.0",
+      "moment": "^2.29.2",
       "morgan": "^1.9.1",
       "pg": "^7.11.0",
       "sequelize": "^5.8.7",
